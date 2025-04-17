@@ -21,15 +21,15 @@ This project analyzes diabetes risk factors using SQL and Tableau. It explores t
 - Pie chart showing the percentage of the patient population within each Age Group
 - Helps contextualize other dashboards by visualizing demographic weight
 
-## 🛠️ Files
+## Files
 - `diabetes_analysis.sql` – SQL queries used for analysis
 - `diabetes_dashboard.twb` – Tableau workbook with a dashboard with 4 sheets
 
-## 💡 Insights
+## Insights
 - Most patients fall into Risk Scores 2 and 3
 - Higher BMI and HbA1c concentrations appear in sedentary smokers
 - Adults aged 30–60 represent the majority of the population
 
-## 📦 Tools Used
+## Tools Used
 - MySQL
 - Tableau Public
