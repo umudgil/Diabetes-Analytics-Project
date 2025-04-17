@@ -23,7 +23,7 @@ This project analyzes diabetes risk factors using SQL and Tableau. It explores t
 
 ## Files
 - `diabetes_analysis.sql` – SQL queries used for analysis
-- `diabetes_dashboard.twb` – Tableau workbook with a dashboard with 4 sheets
+- `diabetes_dashboard.twbx` – Tableau workbook with a dashboard with 4 sheets
 
 ## Insights
 - Most patients fall into Risk Scores 2 and 3
